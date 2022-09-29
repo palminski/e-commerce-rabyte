@@ -14,6 +14,12 @@ const productData = [
     category_id: 5,
   },
   {
+    product_name: 'Bad Sneakers',
+    price: 10.0,
+    stock: 25,
+    category_id: 5,
+  },
+  {
     product_name: 'Branded Baseball Hat',
     price: 22.99,
     stock: 12,
